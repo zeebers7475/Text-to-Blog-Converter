@@ -1,0 +1,5 @@
+{
+  "name": "Text to Blog Converter",
+  "description": "An AI-powered tool to convert pasted rich text or documents into clean HTML for blog posts. Users can provide examples to train the AI for specific formatting styles.",
+  "requestFramePermissions": []
+}

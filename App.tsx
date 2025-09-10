@@ -10,7 +10,7 @@ declare const mammoth: any;
 const Header: React.FC = () => (
     <header className="text-center p-4 md:p-6">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-slate-800 dark:text-white">
-            Text to Blog Converter
+            Convert my Words
         </h1>
         <p className="mt-2 text-md md:text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto">
             Create separate instances to train the AI for different formatting styles. Your work is saved automatically.
